@@ -623,7 +623,7 @@ ul {
   .slick-slide img {
     margin: 0 4%;
     padding-left: 30px;
-    width: 15%;
+    width: auto;
     height: auto;
   }
   .item__div-wrapper {
@@ -719,7 +719,7 @@ ul {
     text-align: center;
   }
   .slick-arrow {
-    display: none;
+    display: none !impartant;
   }
   .slick-prev {
     margin-left: 30%;
